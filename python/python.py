@@ -1,5 +1,7 @@
 say = "Hello:"
 name = input("what is you name?: ")
-age = input("what's your age? ")
+age = input("how old are you ")
 address = input("where are u from? ")
-print (say, name, address)
+respect = "Nice to meet you"
+print (say, name)
+print (respect)
